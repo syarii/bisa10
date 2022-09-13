@@ -1,0 +1,108 @@
+{
+  "users": {
+    "6285759681568@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6283824854126@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6289530618818@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6281373544079@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6285817150561@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6285161714499@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6289517790825@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6281319240486@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6282246008565@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6289516167335@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    },
+    "6288225895198@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    }
+  },
+  "chats": {
+    "6285759681568@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363025840452710@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6289530618818@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363043828199027@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363023136447182@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363042932879920@g.us": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6289530618818@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
